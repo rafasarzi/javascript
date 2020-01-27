@@ -10,5 +10,5 @@ const media = (nota1, nota2, nota3, nota4) => {
     console.log("Reprovado...");
   }
 };
-
+ 
 media(2, 5, 4, 3);
