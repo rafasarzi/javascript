@@ -17,4 +17,4 @@ if (mediatotal.entre(9, 10)){
     console.log('Nota invalida')
 }
 }
-media(4,5,6,7)
+media(9,9,10,10)
