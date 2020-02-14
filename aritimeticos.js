@@ -1,4 +1,4 @@
-const [a, b, c, d] = [3, 5, 1, 15] // declarar todos os valores ao msm tempo por arey
+const [a, b, c, d] = [3, 5, 1, 15] // declarar todos os valores ao msm tempo por array
 
 const soma = a + b + c + d
 const subtracao = d - b
