@@ -1,13 +1,31 @@
 <!DOCTYPE html>
-<html >
-<head>
+<html>
+  
+  <head>
     <title>Quiz</title>
-  <p>Quiz Tabuada</p>
+    <link rel="stylesheet" href="styles.css">
+  </head>
 
-</head>
-<body>
+  <body>
+
+    <header>
+        <h1>TABUADA</h1>
+        <p>Vamos começar?</p>
+        <button type="button" class="botao_inicio" id="botao_inicio">Inícios</button>
+    </header>
+
+    <main>
+      <div id="pergunta_div" style="display: none;">
+        <p id="texto_pergunta"></p>
+        <input type="text" id="resposta"/>
+        <button type="button" class="botao_enviar" id="botao_enviar">Enviar</button>
+      </div>
+    </main>
+
+    <footer>
+    </footer>
 
     <script src="quizTabuada.js"></script>
-</body>
+    
+  </body>
 </html>
-

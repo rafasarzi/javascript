@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  background-color: black;
+}
+
+header {
+  height: 200px;
+  background-color: rgb(0, 0, 0);
+  color: aliceblue;
+  text-align: center;
+}
+
+.botao_inicio {
+  margin-top: 50px;
+}
+
+.botao_enviar {
+  padding-left: 90px;
+}
+
+main {
+  height:500px;
+  background-color:#0F0;  
+}
+
+footer {
+  height:100px;
+  background-color:#C3C;
+}
+  
